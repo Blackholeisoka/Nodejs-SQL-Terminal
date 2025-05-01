@@ -2,7 +2,7 @@
 
 Welcome to **Melsql**, a retro-styled, interactive MySQL Command Line Interface (CLI) tool built with Node.js. Dive into a world where managing your databases feels like an adventure with vibrant visuals and intuitive commands.
 
-![Image](https://github.com/user-attachments/assets/77082945-e100-4f48-bb97-f65268ca5567)
+![Image](https://github.com/user-attachments/assets/d9bdac39-8bc3-439e-84a7-efb580e5ce2b)
 
 ---
 
