@@ -2,6 +2,8 @@
 
 Welcome to **Melsql**, a retro-styled, interactive MySQL Command Line Interface (CLI) tool built with Node.js. Dive into a world where managing your databases feels like an adventure with vibrant visuals and intuitive commands.
 
+![Image](https://github.com/user-attachments/assets/77082945-e100-4f48-bb97-f65268ca5567)
+
 ---
 
 ## 🌟 Features
@@ -42,10 +44,14 @@ Start the CLI tool with:
 
 Here are the main commands you can use in **Melsql**. Each command is designed to help you navigate and interact with your databases smoothly:
 
+![Image](https://github.com/user-attachments/assets/4e795255-21d4-4ff7-97f3-0e2e4697ae93)
+
 ```shell
 # Start interactive mode to manage tables and columns
 melsql -start
 ```
+
+![Image](https://github.com/user-attachments/assets/ef5184dd-4fb9-424d-a9bd-82aae136dd8e)
 
 ```shell
 # Show all available commands
@@ -56,6 +62,8 @@ melsql -cmd
 # Switch to another database
 melsql -use <database_name>
 ```
+
+![Image](https://github.com/user-attachments/assets/d3acb2c7-1a37-471d-94b1-f408b09eef84)
 
 ```shell
 # Display all databases
