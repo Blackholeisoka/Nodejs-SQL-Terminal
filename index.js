@@ -20,8 +20,8 @@ class DatabaseManager {
     async connect(database = DatabaseNameUse) {
         this.connection = await mysql.createConnection({
             host: 'localhost',
-            user: 'root',
-            password: 'root',
+            user: '****',
+            password: '****',
             database: database,
         });
         this.databaseSelected = database;
