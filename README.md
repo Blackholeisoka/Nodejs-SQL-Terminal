@@ -33,7 +33,7 @@ npm install
 ### **2. Run the Tool**
 Start the CLI tool with:
 ```bash
-node melsql.js
+  melsql
 ```
 
 ---
